@@ -1,6 +1,5 @@
-# sample-java
-
-Code sample java
+# eContract On-Premise .Net
+eContract On-Premise Sample code Java
 - [1] Xác thực + Chọn công ty => Lấy thông tin access token
 - [2] Tạo chứng từ
 - [2.1] Tạo chứng từ (tạo từ file pdf)
