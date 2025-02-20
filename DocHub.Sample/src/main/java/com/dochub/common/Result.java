@@ -5,7 +5,6 @@ public class Result<T> {
     private boolean success;
     private int code;
     private String[] messages;
-
     public Result(String[] messages) {
         this.messages = messages;
     }
