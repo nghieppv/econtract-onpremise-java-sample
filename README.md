@@ -1,4 +1,4 @@
-# eContract On-Premise .Net
+# eContract On-Premise
 eContract On-Premise Sample code Java
 - [1] Xác thực + Chọn công ty => Lấy thông tin access token
 - [2] Tạo chứng từ
